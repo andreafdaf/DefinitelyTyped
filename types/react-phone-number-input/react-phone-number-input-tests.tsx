@@ -16,6 +16,7 @@ const test1 = (
         countries={['NZ', 'US', 'FR']}
         placeholder="Place holder"
         international={true}
+        withCountryCallingCode={true}
         country={'US'}
         countrySelectProps={{ tabIndex: '-1' }}
     >
